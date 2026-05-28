@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+langgraph
+langchain
+pydantic
+sqlalchemy
+psycopg2-binary
+scikit-learn
+numpy
+pandas
+joblib
+python-dotenv
+pytest
+pytest-asyncio
