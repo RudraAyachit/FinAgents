@@ -1,7 +1,7 @@
 
-# Financial Multi-Agent Risk Intelligence System 
+# FinAgents : Financial Multi-Agent Intelligence System 
 
-An enterprise-style AI orchestration platform for financial risk intelligence using FastAPI + LangGraph.
+An enterprise-style AI orchestration platform for financial intelligence using FastAPI + LangGraph.
 
 ## Features
 
@@ -65,28 +65,5 @@ Swagger Docs:
 http://localhost:8000/docs
 ```
 
----
 
-## Sample API Request
-
-```json
-{
-  "income": 5000,
-  "debt": 2500,
-  "monthly_spending": 3200,
-  "missed_payments": 1,
-  "transaction_velocity": 5,
-  "avg_transaction_size": 1200
-}
-```
-
----
-
-## Resume Highlights
-
-- Built a real-time multi-agent financial intelligence system using LangGraph and FastAPI
-- Implemented asynchronous agent orchestration with explainable AI workflows
-- Developed fraud detection and behavioral analytics pipelines
-- Designed scalable microservice-ready backend architecture
-- Added validation, logging, CI-ready testing, and containerized deployment
 
